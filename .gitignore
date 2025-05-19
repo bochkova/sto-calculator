@@ -1,0 +1,6 @@
+# Логи
+*.log
+
+node_modules/
+
+.idea

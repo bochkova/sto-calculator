@@ -1,0 +1,22 @@
+# IDE files
+.idea/
+.vscode/
+
+# Frontend
+frontend/
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yaml
+.dockerignore
+
+# Config
+config.yaml
+
+# Other
+*.md
+*.log 
